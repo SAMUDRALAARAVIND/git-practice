@@ -7,3 +7,7 @@ function three() {
 function two() {
     console.log("Two")
 }
+
+function test(){
+    
+}
